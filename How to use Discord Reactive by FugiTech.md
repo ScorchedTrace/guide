@@ -30,6 +30,7 @@ Now you got a model to show in a collab! 🎉
 	- Should be a good idea to rename the browser source (ie. Reactive Images, FugiTech, Friends, etc)
 - Open the browser source's properties and put the copied link into "URL"
 - Move the new reactive images source to your desired position
+
 Now you got friends on your stream when doing discord call!🥳🎉
 ## Config
 A few essential options in https://reactive.fugi.tech/
