@@ -15,6 +15,7 @@
 
 ![](assets/reactFugi/reactFugi_Models_selection.gif)
 - Make sure you're selecting the model you're using by clicking on it
+
 Now you got a model to show in a collab! 🎉
 
 ## Get browser source to put in your obs
@@ -37,8 +38,7 @@ A few essential options in https://reactive.fugi.tech/
 
 ![](assets/reactFugi/reactFugi_Config.png)
 - Include own image in group view: Just toggle it off if you already have your model
-
 ![](assets/reactFugi/reactFugi_dim_speaking.gif)
-- Dim other's non-speaking image: The default "If matches speaking image" help with dimming someone image that doesn't have an open-close states
+- Dim other's non-speaking image: The default "If matches speaking image" helps with dimming someone's image that doesn't have an open-close states
 - Show names: "Hidden" if you want
-- Image alignment: In my opinion, if you put your model on the right side, just pick the "right" alignment to always keep reactive images source right beside your model
+- Image alignment: In my opinion, if you put your model on the right side, just pick the "right" alignment to always keep your friends' reactive images right beside your model
